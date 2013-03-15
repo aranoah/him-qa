@@ -1,0 +1,264 @@
+﻿div.tab-left-column {
+  /*  background: none repeat scroll 0 0 #F1F1F1;*/
+    border-bottom: 1px solid #E7E7E7;
+    float: left;
+    width: 40%;
+      padding: 10px;
+    height:25px;
+    border-right:1px solid #E7E7E7;
+
+}
+div.tab-right-column {
+    float: left;
+    width: 50%;
+    border-bottom: 1px solid #E7E7E7;
+    border-left: none;
+      padding: 10px;
+    height:25px;
+
+}
+
+
+html body div#container div#content.goinventive div.box form#form div.tab-content {
+    clear: both;
+    margin: 10px 0;
+    max-width: 960px;
+   
+}
+
+.htabs {
+    border-bottom: 1px solid #DDDDDD;
+    clear: both;
+    height: 30px;
+    line-height: 16px;
+    margin: 20px 0;
+    padding: 0 0 0 10px;
+}
+
+div.content div.welcome-tab-content {
+    margin: 20px 0;
+    overflow: auto;
+}
+
+div.tab-content div.image {
+    height: 145px;
+}
+
+.image{
+	
+	border:0 none;
+}
+div.image img{
+	
+	border: 1px solid #DDDDDD;
+}
+.tab-content input[type=text], input[type=password], select, textarea {
+    background-color: #F1F1F1;
+    border-color: #CCCCCC #E6E6E6 #E6E6E6 #CCCCCC;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+    margin-bottom: 9px !important;
+    padding: 5px;
+    width: 200px;
+    border-radius: 3px;
+    
+}
+textarea {
+	
+	width:auto;
+}
+select {
+    width: 210px;
+}
+
+textarea#styled {
+	border: 3px solid #cccccc;
+	padding: 5px;
+	}
+	
+	 div.tab-content div.footer_content {
+    float: left;
+    width:660px;
+    margin-left:20px;
+}
+
+#content.goinventive {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px 10px 5px 5px;
+    margin: 20px auto;
+    padding: 10px;
+    width: 800px;
+    font-family:"Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+    color:#333232;
+}
+.box > .heading {
+    background: none repeat scroll 0 0 #DFDFDF;
+    border: 1px solid #DBDBDB;
+    border-radius: 7px 7px 0 0;
+    height: 38px;
+    margin-bottom: 30px;
+    padding: 12px 12px 30px;
+}
+#footer{
+	
+	margin-top:20px;
+}
+div.tab-content div.textarea {
+    min-height: 200px;
+}
+div.tab-content div.checkbox {
+    min-height: 100px;
+}
+
+
+
+/* iPhone switcher */
+
+.iPhoneCheckContainer {
+  -webkit-transform:translate3d(0,0,0);
+  position: relative;
+  height: 27px;
+  cursor: pointer;
+  overflow: hidden; }
+  .iPhoneCheckContainer input {
+    position: absolute;
+    top: 5px;
+    left: 30px;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0; }
+  .iPhoneCheckContainer label {
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 17px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    display: block;
+    height: 27px;
+    position: absolute;
+    width: auto;
+    top: 0;
+    padding-top: 5px;
+    overflow: hidden; }
+  .iPhoneCheckContainer, .iPhoneCheckContainer label {
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none; }
+
+.iPhoneCheckDisabled {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5; }
+
+label.iPhoneCheckLabelOn {
+  color: white;
+  background: url('images/iphone-style-checkboxes/on.png?1284697268') no-repeat;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.6);
+  left: 0;
+  padding-top: 5px; }
+  label.iPhoneCheckLabelOn span {
+    padding-left: 8px; }
+label.iPhoneCheckLabelOff {
+  color: #8b8b8b;
+  background: url('images/iphone-style-checkboxes/off.png?1284697268') no-repeat right 0;
+  text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.6);
+  text-align: right;
+  right: 0; }
+  label.iPhoneCheckLabelOff span {
+    padding-right: 8px; }
+
+.iPhoneCheckHandle {
+  display: block;
+  height: 27px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  background: url('images/iphone-style-checkboxes/slider_left.png?1284697268') no-repeat;
+  padding-left: 3px; }
+
+.iPhoneCheckHandleRight {
+  height: 100%;
+  width: 100%;
+  padding-right: 3px;
+  background: url('images/iphone-style-checkboxes/slider_right.png?1284697268') no-repeat right 0; }
+
+.iPhoneCheckHandleCenter {
+  height: 100%;
+  width: 100%;
+  background: url('images/iphone-style-checkboxes/slider_center.png?1284697268'); }
+
+.iOSCheckContainer {
+  position: relative;
+  height: 27px;
+  cursor: pointer;
+  overflow: hidden; }
+  .iOSCheckContainer input {
+    position: absolute;
+    top: 5px;
+    left: 30px;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0; }
+  .iOSCheckContainer label {
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 17px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    display: block;
+    height: 27px;
+    position: absolute;
+    width: auto;
+    top: 0;
+    padding-top: 5px;
+    overflow: hidden; }
+  .iOSCheckContainer, .iOSCheckContainer label {
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none; }
+
+.iOSCheckDisabled {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5; }
+
+label.iOSCheckLabelOn {
+  color: white;
+  background: url('images/ios-style-checkboxes/on.png?1284697268') no-repeat;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.6);
+  left: 0;
+  padding-top: 5px; }
+  label.iOSCheckLabelOn span {
+    padding-left: 8px; }
+label.iOSCheckLabelOff {
+  color: #8b8b8b;
+  background: url('images/ios-style-checkboxes/off.png?1284697268') no-repeat right 0;
+  text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.6);
+  text-align: right;
+  right: 0; }
+  label.iOSCheckLabelOff span {
+    padding-right: 8px; }
+
+.iOSCheckHandle {
+  display: block;
+  height: 27px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  background: url('images/ios-style-checkboxes/slider_left.png?1284697268') no-repeat;
+  padding-left: 3px; }
+
+.iOSCheckHandleRight {
+  height: 100%;
+  width: 100%;
+  padding-right: 3px;
+  background: url('images/ios-style-checkboxes/slider_right.png?1284697268') no-repeat right 0; }
+
+.iOSCheckHandleCenter {
+  height: 100%;
+  width: 100%;
+  background: url('images/ios-style-checkboxes/slider_center.png?1284697268'); }

@@ -1,0 +1,25 @@
+[12-Feb-2013 05:06:10] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Spreadsheet/Excel/Writer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1140
+[12-Feb-2013 06:05:50] PHP Parse error:  syntax error, unexpected $end in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 292
+[12-Feb-2013 06:07:13] PHP Parse error:  syntax error, unexpected $end in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 843
+[12-Feb-2013 06:20:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1518
+[12-Feb-2013 06:20:43] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1518
+[12-Feb-2013 06:20:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1518
+[12-Feb-2013 06:42:43] PHP Parse error:  syntax error, unexpected ';' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1509
+[12-Feb-2013 06:42:45] PHP Parse error:  syntax error, unexpected ';' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1509
+[12-Feb-2013 06:43:06] PHP Parse error:  syntax error, unexpected ';' in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1509
+[12-Feb-2013 07:20:35] PHP Parse error:  syntax error, unexpected $end in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 58
+[12-Feb-2013 07:21:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/chitrita/public_html/admin/model/catalog/productimportexport.php on line 1302
+[12-Feb-2013 07:24:53] PHP Fatal error:  Class 'Modelcatalogproductimportexport' not found in /home/chitrita/public_html/vqmod/vqcache/vq2-system_engine_loader.php on line 49
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chitrita/public_html/system/database/mysql.php on line 6
+[27-Feb-2013 15:29:55] PHP Notice:  Error: Could not make a database link using chitrita_ochitri@localhost in /home/chitrita/public_html/system/database/mysql.php on line 7
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 10
+[27-Feb-2013 15:29:55] PHP Notice:  Error: Could not connect to database chitrita_ochitri in /home/chitrita/public_html/system/database/mysql.php on line 11
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 14
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 15
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 16
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 17
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 21
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 49
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_errno(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 49
+[27-Feb-2013 15:29:55] PHP Notice:  Error: <br />Error No: <br />SELECT * FROM oc_setting WHERE store_id = '0' in /home/chitrita/public_html/system/database/mysql.php on line 49
+[27-Feb-2013 15:29:55] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/chitrita/public_html/system/database/mysql.php on line 67
