@@ -1,0 +1,5 @@
+_setValue(_textbox("userId"), "anay");
+_setValue(_textbox("userId"), "anay@gmail.com");
+_setValue(_textbox("userId"), "anay@gmail.com");
+_setValue(_password("password"), "hello");
+_click(_div("LOGIN"));

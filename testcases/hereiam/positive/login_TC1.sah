@@ -1,0 +1,3 @@
+_setValue(_textbox("userId"), "anh123");
+_setValue(_password("password"), "welcome");
+_click(_div("LOGIN"));
