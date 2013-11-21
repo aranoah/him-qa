@@ -1,0 +1,10 @@
+_click(_span("SIGNUP"));
+_setValue(_textbox("name"), "nidhi#");
+_setValue(_password("regPassword"), "hello");
+_setValue(_password("confPassword"), "hello");
+_click(_div("inputField[1]"));
+_setValue(_emailbox("email"), "nidhi1@gmail.com");
+_setValue(_telephonebox("mobile"), "9900003022");
+_click(_checkbox("checked"));
+_click(_div("REGISTER[1]"));
+_assertEqual("Invalid Name", _getText(_div("nameErr")));

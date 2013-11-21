@@ -1,0 +1,2 @@
+_setValue(_textbox("userId"), "db123");
+_click(_div("LOGIN"));

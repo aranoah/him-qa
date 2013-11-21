@@ -1,0 +1,4 @@
+_setValue(_textbox("userId"), "humia");
+_setValue(_password("password"), "hello");
+_click(_div("LOGIN"));
+_assert(_isVisible(_div("loginErr")));

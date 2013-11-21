@@ -1,0 +1,4 @@
+_setValue(_textbox("userId"), "jack");
+_setValue(_password("password"), "royal");
+_click(_div("LOGIN"));
+_assertEqual("Login Failed. Please Try Again.", _getText(_div("errorMsg")));
