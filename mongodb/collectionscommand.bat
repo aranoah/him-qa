@@ -1,0 +1,1 @@
+FOR /F %i IN (collection.txt) do C:\mongodb\bin\mongoexport.exe --db hereiam  --collection %i -o out/%i.json

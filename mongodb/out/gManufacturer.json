@@ -1,0 +1,121 @@
+{ "_id" : { "$oid" : "526787860de96a466b5a9834" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Aranoah pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5267a580aea93fa84fbe91c4" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "DELL PVT.LTD", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5267ab29aea93fa84fbe91f8" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "HERO HONDA", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5267ac78aea93fa84fbe9204" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "BAJAJ", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5268b5e30de92204209070a0" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "fsfdfdsffsdfds", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5269059aaea9fccb0a2e93bf" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "samsung", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526907c6aea9fccb0a2e93d8" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "jhhkdsa", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52691419aea9fccb0a2e93e4" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "kapil25366", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52692578aea9fccb0a2e94c3" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "hkjhkhkhkkh", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a233c0de984b2eecbd780" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "hkhkjhkhk", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a3bcc0de984b2eecbd7ce" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "sdakdjn", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a3c550de984b2eecbd7d1" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "njdkasn", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a40cd0de984b2eecbd7ea" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "jknkkjnkj", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a41240de984b2eecbd7ed" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "jknkkjnkj", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a41540de984b2eecbd7f0" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "nkdjsan", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a417d0de984b2eecbd7f3" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "NDKAJNDSKDKJAKJDN", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a4499aea9809f3fac143f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "gjgjgjj", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a44d5aea9809f3fac1442" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "khkhkjhkh", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a44efaea9809f3fac1445" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "khkhkjhkh", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a4543aea9809f3fac1448" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "hkjh", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526a45d0aea9809f3fac144b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "KJKJNSAKJDNKJN", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e003b0de976f698007b3e" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Samsung India", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e027b0de976f698007b46" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Micromax India", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e06580de976f698007b6f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "NOKIA INDIA PVT.LTD", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e0ef70de976f698007bbe" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Sony India", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e327a0de976f698007d65" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Timex India pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e41c60de976f698007ed8" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "fasttrack", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e45870de976f698007f1c" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Polaroid", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e4e320de976f69800807e" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Harley", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e4e6a0de976f698008082" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Tommy Hilfiger pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526e4f750de976f69800809f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Harley", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "526f54820de95572102e81b9" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "American Tourister pvt. ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270b7370de9bd9b1ae3e0d0" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Lenovo Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270bd8c0de9bd9b1ae3e128" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Toshiba India Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270df0c0de9bd9b1ae3e200" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "erewqr4242342", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270e4de0de9bd9b1ae3e246" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Samsung India pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270e81d0de9bd9b1ae3e26f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Canon India pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270f50e0de9bd9b1ae3e313" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Nikon India Pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270fd4b0de9bd9b1ae3e3ca" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "HKHKJHK", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5270ff1a0de9bd9b1ae3e3cd" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "HKHJHHK", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5271f6610de93765892413b7" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Puma pvt. ltd.", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52720bea0de937658924142b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "ush", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52720de30de93765892414d5" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "nike Pvt. Ltd.", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "527214d90de937658924150e" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Apple Pvt. Ltd.", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "527217c80de9376589241534" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Apple Pvt. Ltd.", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52722f3f0de9376589241584" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "samsung  India pvt. ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5279dddc0de965641e6164c3" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : " Daler-Rowney  pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "527b45f90de9b77d05052f77" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "fastrack", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5289ee17aea9eaa93437b5f2" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "H.P pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "528ef1410de9ec98bd75ccc9" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "vhiyk", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "528ef1570de9ec98bd75ccce" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "vhiyk", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "5295f6ea0de90cb12d460fbe" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "nksjn", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52973861aea97bf08ee0c6cb" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "hkhk", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529c2201f201f10803fb476b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "chitrita", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529c5913f201a30ef0cf0773" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Link india Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529c6647f201a30ef0cf0796" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Reebok india Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529d610b0de961ef7ec4c681" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "zebronic", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529d70b00de961ef7ec4c80a" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "ZEBORNIC", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529dfdf60de91bdf42c32b87" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529e02be0de91bdf42c32c5b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529ec3b8aea9cc8e56b930e7" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529ec669aea9cc8e56b931e6" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529ec869aea9cc8e56b931ed" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529eee9baea9572354b0e30e" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "529f0b50aea960e799bb719f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a007870de93e093c95a7dc" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "orissa", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a0087d0de93e093c95a7f5" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "hjasdksad", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a008d50de93e093c95a7f8" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "cushions", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a00d540de93e093c95a817" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a00f950de93e093c95a81d" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a010570de93e093c95a822" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a011740de93e093c95a826" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a015b80de93e093c95a82c" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "asdasd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a090a3aea94e78324f9bc9" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a158110de9c6a73869fe1a" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "pillow", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a160170de9c6a73869fe4c" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "babyoye", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a161af0de9c6a73869fe54" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a162200de9c6a73869fe5b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a167330de9c6a73869fe60" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "asas", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a1cef9aea9f267a64d1010" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a1d845aea97f32921fece6" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a1d8f3aea97f32921fece9" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a1d928aea97f32921fecec" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a5555e0de92e1617ff1212" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a556590de92e1617ff121b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "colic", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a55efa0de92e1617ff1230" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a5874c0de9e46b70feb23f" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a58c8aaea9f47eddb3204c" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a5b204aea9aa63f437b02a" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a5e155aea93f210cf812ac" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a5e264aea93f210cf812b6" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a6a1c30de9eb35cffaa738" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "rotomac", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a6a6b90de9eb35cffaa73d" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a6c5ae0de9eb35cffaa777" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a80b7a77d748ec517f7c66" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a80f5b77d748ec517f7c70" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a8133877d748ec517f7c7a" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a8151b77d748ec517f7c85" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a816e777d748ec517f7c8d" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a834e377d748ec517f7cfe" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "BMW India", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a83ae177d748ec517f7d05" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Maruti Suzuki India", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a8784377d791125ef0317d" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a878f677d791125ef03187" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a8797f77d791125ef0318a" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52a982beaea91043ea3670f1" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52aab40d0de97270823a87ab" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Tata India Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52aac0040de97270823a87ff" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "LG India Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52aae1090de97270823a884d" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Ray Ban India Pvt.Ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52aae2b90de97270823a8865" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "name" : "Polaroid Wayfarer pvt.ltd", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abee0caea967a6af316370" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abef60aea967a6af31637b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf12daea967a6af316383" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf2abaea967a6af31638b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf44daea967a6af316393" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf558aea967a6af31639b" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf5c2aea967a6af3163a2" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf6e9aea967a6af3163a6" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf7cdaea967a6af3163ae" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abf971aea967a6af3163b7" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abfae7aea967a6af3163bc" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
+{ "_id" : { "$oid" : "52abfb99aea967a6af3163c4" }, "_class" : "com.anh.him.gdb.domain.product.GManufacturer", "rating" : 0, "comments" : 0 }
