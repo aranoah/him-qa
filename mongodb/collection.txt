@@ -1,3 +1,5 @@
+fs.chunks
+fs.files
 gBlog
 gBooking
 gBusinessRegistrationStatus
@@ -32,3 +34,4 @@ mDiscount
 mOrderLine
 mOrderQueue
 mShippingAddress
+

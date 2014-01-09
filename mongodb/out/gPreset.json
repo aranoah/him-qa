@@ -1,1 +1,0 @@
-{ "_id" : { "$oid" : "527a0b730de965641e616650" }, "_class" : "com.anh.him.gdb.domain.product.GPreset", "storeId" : "MALL754", "name" : "Lenevo", "preset" : [ { "key" : "Graphic Processor" }, { "key" : "RAM" } ], "category" : "GRAPHICS" }

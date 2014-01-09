@@ -1,2 +1,0 @@
-{ "_id" : { "$oid" : "51e92e0dc6aa2aa0d10cd632" }, "_class" : "com.anh.him.gdb.domain.product.GExternalStoreConfiguration", "storeId" : "MALLf7f", "storeClassName" : "testExternalStore", "serverHost" : "localhost", "port" : "8080", "productUrl" : "", "orderUrl" : "" }
-{ "_id" : { "$oid" : "51e92f81c6aa2aa0d10cd633" }, "_class" : "com.anh.him.gdb.domain.product.GExternalStoreConfiguration", "storeId" : "MALLf7f", "storeClassName" : "testExternalStore", "serverHost" : "localhost", "port" : "8080", "productUrl" : "", "orderUrl" : "" }
