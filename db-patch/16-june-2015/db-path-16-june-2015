@@ -1,5 +1,5 @@
 db.gMultipleAddressLiveService.createIndex( { name: "text",templateId:"text",category:"text",trusted:-1,"ranking":-1,societies:1 } )
-db.gMultipleAddressLiveService.createIndex({status:1,trusted:-1,"ranking":-1,category:1,societies:1,templateId:1,trusted:-1},{name: 'business-default-index'})
-db.gMultipleAddressLiveService.createIndex({"origin.loc":"2d",status:1,trusted:-1,"ranking":-1,category:1,societies:1,templateId:1,trusted:-1},{name: 'business-2d-index'})
+db.gMultipleAddressLiveService.createIndex({status:1,trusted:-1,"ranking":-1,category:1,societies:1,templateId:1},{name: 'business-default-index'})
+db.gMultipleAddressLiveService.createIndex({"origin.loc":"2d",status:1,trusted:-1,"ranking":-1,category:1,societies:1,templateId:1},{name: 'business-2d-index'})
 
 db.gAdvertisement.createIndex({rank:-1},{name: 'advertisement-default-index'})
