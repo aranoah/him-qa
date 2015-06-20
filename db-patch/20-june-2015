@@ -1,0 +1,1 @@
+db.gCircle.update({},{$set:{"defaultStoreId":"himtest"}},{multi:true});
