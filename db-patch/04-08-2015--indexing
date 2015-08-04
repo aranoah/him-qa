@@ -1,0 +1,2 @@
+db.gBidding.createIndex({date:-1},{name: 'bidding-default-index'})
+db.gQuestion.createIndex({date:-1},{name: 'question-default-index'})
