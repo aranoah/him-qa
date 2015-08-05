@@ -1,0 +1,1 @@
+db.gBidding.createIndex({'title':'text','criteria':"text",'_id':-1},{name:'bidding-text-index'});
